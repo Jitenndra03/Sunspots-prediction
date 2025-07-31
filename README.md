@@ -8,7 +8,7 @@ SunspotPrediction.ipynb — Main Jupyter Notebook containing the full pipeline:
 * Data loading and preprocessing
 * Visualization of sunspot trends
 * Sequence generation for supervised learning
-* Model creation (likely LSTM, RNN, or similar)
+* Model creation (LSTM, RNN)
 * Model training and evaluation
 * Forecast visualization
 
